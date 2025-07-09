@@ -12,7 +12,7 @@
 - 🌐 Strong in Frontend & Backend Web Development  
 - 🔧 Skilled in building Full-Stack Projects using MERN  
 - 📫 Email: **akshayag2906@gmail.com**  
-- 👩‍💻 Portfolio: Coming Soon!  
+- 👩‍💻 Portfolio: https://akshaya-aa.github.io/akshayaportfolio/  
 - 🏙️ Open to full-time **on-site roles in Chennai/Bangalore**
 
 ---
