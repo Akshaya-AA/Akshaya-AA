@@ -11,8 +11,8 @@
 - 🎓 MSc Computer Science Graduate  
 - 🌐 Strong in HTML, CSS, JavaScript, and React  
 - 🔧 Skilled in MongoDB, MySQL, Node.js, Express.js  
-- 📫 Email: **akshayag2906@gmail.com**  
-- 👩‍💻 Portfolio: Coming Soon!  
+- 📫 Email: akshayag2906@gmail.com 
+- 👩‍💻 Portfolio: https://akshaya-aa.github.io/akshayaportfolio/  
 - 🗺️ Open to full-time **on-site opportunities in Chennai/Bangalore**
 
 ---
