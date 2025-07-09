@@ -49,6 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-AA&layout=compact&theme=radical" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-AA&layout=compact&theme=radical" />
+
+
 ---
 
 ## 🏆 GitHub Trophies
