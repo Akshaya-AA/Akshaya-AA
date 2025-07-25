@@ -13,7 +13,7 @@
 - 🔧 Skilled in building Full-Stack Projects using MERN  
 - 📫 Email: **akshayag2906@gmail.com**  
 - 👩‍💻 Portfolio: https://akshaya-aa.github.io/akshayaportfolio/  
-- 🏙️ Open to full-time **on-site roles in Chennai/Bangalore**
+- 🏙️ Open to full-time **on-site roles across Tamil Nadu** (including Chennai, Coimbatore, Bangalore optional)
 
 ---
 
