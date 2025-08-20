@@ -1,6 +1,6 @@
 <!-- 🎉 Top GIF Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/42370628/file/original-3746ad110e21966facb1acbc0f614d14.gif" width="400px" alt="girl working on a computer" />
+  <img src="[https://cdn.dribbble.com/userupload/42370628/file/original-3746ad110e21966facb1acbc0f614d14.gif](https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif)" width="400px" alt="girl working on a computer" />
 </p>
 
 
