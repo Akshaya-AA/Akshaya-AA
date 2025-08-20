@@ -1,6 +1,6 @@
 <!-- 🎉 Top GIF Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif" width="400px" alt="girl working on a computer" />
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="400px" alt="girl working on a computer" />
 </p>
 
 
