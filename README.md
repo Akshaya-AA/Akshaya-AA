@@ -1,7 +1,8 @@
 <!-- 🎉 Top GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100%" alt="girl coding on a computer" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="girl working on computer" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Akshaya G</h1>
