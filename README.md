@@ -1,7 +1,8 @@
 <!-- 🎉 Top GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="welcome banner" />
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100%" alt="girl coding on a computer" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Akshaya G</h1>
 <h3 align="center">Full Stack Developer | Passionate about Frontend & Backend Web Development</h3>
