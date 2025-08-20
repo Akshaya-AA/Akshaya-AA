@@ -1,7 +1,9 @@
 <!-- 🎉 Top GIF Banner -->
+<!-- 🎉 Top GIF Banner -->
 <p align="center">
-  <img src="https://lottiefiles.com/free-animation/girl-working-on-laptop-lottie-animation-VYShYrrSQL" width="100%" alt="girl working on a computer" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100%" alt="girl working on a computer" />
 </p>
+
 
 
 
