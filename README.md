@@ -68,8 +68,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshaya-AA&theme=juicyfresh&no-frame=true&no-bg=true&title=Commits,Repositories,Stars,Followers,PullRequest&title_color=800080&text_color=993366&border_color=800080" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshaya-AA&theme=dark&no-frame=true&no-bg=false&title=Commits,Repositories,Stars,Followers,PullRequest&title_color=993366&text_color=FFFFFF&border_color=800080" />
 </p>
+
 
 ---
 
