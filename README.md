@@ -1,4 +1,7 @@
 <!-- 🎉 Top GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="400px" alt="girl working on a computer" />
+</p>
 
 
 
