@@ -1,7 +1,8 @@
 <!-- 🎉 Top GIF Banner -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6665910-Workspace-animation&psig=AOvVaw1sIOGsWwZpeWFsesZiwwpM&ust=1755780894875000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi-qta3mY8DFQAAAAAdAAAAABBP)" width="400px" alt="girl working on a computer" />
+  <img src="https://cdn.dribbble.com/userupload/42370628/file/original-3746ad110e21966facb1acbc0f614d14.gif" width="400px" alt="girl working on a computer" />
 </p>
+
 
 
 
