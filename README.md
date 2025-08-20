@@ -1,7 +1,8 @@
 <!-- 🎉 Top GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="girl working on computer" />
+  <img src="https://i.imgur.com/placeholder.gif" width="100%" alt="girl working on a computer" />
 </p>
+
 
 
 
