@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshaya-AA&show_icons=true&theme=radical&title_color=993366&icon_color=800080&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshaya-AA&show_icons=true&theme=radical&title_color=993366&icon_color=800080&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya-AA&layout=compact&theme=radical&title_color=800080&text_color=ffffff&bg_color=0d1117" />
 </p>
@@ -70,8 +70,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akshaya-AA&theme=darkhub&no-frame=true&no-bg=false&title=Commits,Repositories,Stars,Followers,PullRequest&title_color=993366&text_color=ffffff&border_color=800080" />
 </p>
-
-
 
 ---
 
